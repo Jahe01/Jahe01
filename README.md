@@ -2,7 +2,7 @@
 
 ### Personal Account
 
-#### Hi everyone, I'm Jahe👋
+#### Hi everyone, I'm Jahe👋:t-rex:
 
 ![dino](https://media.giphy.com/media/3h3GgndiQfww20KTSi/giphy.gif)
 
