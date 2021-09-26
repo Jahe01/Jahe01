@@ -23,6 +23,6 @@
 
 <span>
  <a href="https://www.instagram.com/jahe_xd/">
-    <img align="left" alt="Jois01| Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+    <img align="left" alt="Jahe01| Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
   
 </span> 
