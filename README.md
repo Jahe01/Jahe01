@@ -4,7 +4,7 @@
 
 #### Hi everyone, I'm Jahe👋:t-rex:
 
-![dino](https://media.giphy.com/media/3h3GgndiQfww20KTSi/giphy.gif)
+
 
 
 *Software Engineering student at [Escuela Politécnica Nacional](https://www.epn.edu.ec)* 🇪🇨
