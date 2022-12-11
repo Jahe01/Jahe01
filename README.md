@@ -2,7 +2,7 @@
 
 ### Personal Account
 
-#### Hi everyone, I'm Jahe👋:t-rex:
+#### Hi everyone, I'm Johanna Huaraca👋:t-rex:
 
 
 
