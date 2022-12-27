@@ -20,7 +20,7 @@
 
 
 
-- 💬 Contact me as @jahe_xd
+- 💬 Contact me as johanna.huaraca@epn.edu.ec
 
 📫 Follow me in: 
 
